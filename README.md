@@ -1,1 +1,1 @@
-# c-zig-rust
+# rust
